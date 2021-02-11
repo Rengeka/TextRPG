@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Labs\\StasTest\\StasTest\\StasTest.csproj": {}
+    "C:\\Users\\stasi\\RiderProjects\\TextRPG\\StasTest\\StasTest.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Labs\\StasTest\\StasTest\\StasTest.csproj": {
+    "C:\\Users\\stasi\\RiderProjects\\TextRPG\\StasTest\\StasTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Labs\\StasTest\\StasTest\\StasTest.csproj",
+        "projectUniqueName": "C:\\Users\\stasi\\RiderProjects\\TextRPG\\StasTest\\StasTest.csproj",
         "projectName": "StasTest",
-        "projectPath": "D:\\Projects\\Labs\\StasTest\\StasTest\\StasTest.csproj",
-        "packagesPath": "C:\\Users\\aciob\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Labs\\StasTest\\StasTest\\obj\\",
+        "projectPath": "C:\\Users\\stasi\\RiderProjects\\TextRPG\\StasTest\\StasTest.csproj",
+        "packagesPath": "C:\\Users\\stasi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stasi\\RiderProjects\\TextRPG\\StasTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\aciob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\stasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
