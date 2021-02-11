@@ -1,0 +1,16 @@
+D:\Projects\Labs\StasTest\StasTest\bin\Debug\net5.0\StasTest.exe
+D:\Projects\Labs\StasTest\StasTest\bin\Debug\net5.0\StasTest.deps.json
+D:\Projects\Labs\StasTest\StasTest\bin\Debug\net5.0\StasTest.runtimeconfig.json
+D:\Projects\Labs\StasTest\StasTest\bin\Debug\net5.0\StasTest.runtimeconfig.dev.json
+D:\Projects\Labs\StasTest\StasTest\bin\Debug\net5.0\StasTest.dll
+D:\Projects\Labs\StasTest\StasTest\bin\Debug\net5.0\ref\StasTest.dll
+D:\Projects\Labs\StasTest\StasTest\bin\Debug\net5.0\StasTest.pdb
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.csprojAssemblyReference.cache
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.AssemblyInfoInputs.cache
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.AssemblyInfo.cs
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.csproj.CoreCompileInputs.cache
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.dll
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\ref\StasTest.dll
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.pdb
+D:\Projects\Labs\StasTest\StasTest\obj\Debug\net5.0\StasTest.genruntimeconfig.cache
